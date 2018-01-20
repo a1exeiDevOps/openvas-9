@@ -1,8 +1,3 @@
-# openvas-9-docker
-
-Usage
-Simply run:
-
 # openvas 9
     docker run --name openvas -p 80:80 -p 9390:9390 -d a1exei/a1exei:openvas-9
 
