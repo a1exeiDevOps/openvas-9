@@ -1,4 +1,4 @@
-# openvas 9
+# Openvas 9
 
 # Usage
 Simply run:
